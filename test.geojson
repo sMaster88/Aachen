@@ -1,18 +1,1 @@
-{
-    "type": "Feature",
-    "id": "OpenLayers.Feature.Vector_314",
-    "properties": {},
-    "geometry": {
-        "type": "Point",
-        "coordinates": [
-            97.03125,
-            39.7265625
-        ]
-    },
-    "crs": {
-        "type": "name",
-        "properties": {
-            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        }
-    }
-}
+{ "type": "LineString", "coordinates": [ [5.81953864, 50.62492028], [5.822144, 50.62311325], [5.82168475, 50.62213611], [5.82010845, 50.62111827], [5.81749596, 50.61989487], [5.81618642, 50.61917399] ] }
