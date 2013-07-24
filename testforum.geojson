@@ -1,6 +1,8 @@
 {
-    "type": "Point",
-    "coordinates": [
-       256736.52724116726, 6324809.1952261068
-    ]
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "y": 18.733681, "x ": -27.557227 }, "geometry": { "type": "Point", "coordinates": [ 256736.52724116726, 6324809.1952261068 ] } }
+
+]
 }
